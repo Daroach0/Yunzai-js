@@ -457,7 +457,3 @@ MIT License
 #### 🥦其他
 
 如果觉得此插件对你有帮助的话,可以点一个star,你的支持就是不断更新的动力~
-
-#### 🥦访问数量：
-
-![aajinse](https://count.kjchmc.cn/get/@aajinse?theme=gelbooru)
